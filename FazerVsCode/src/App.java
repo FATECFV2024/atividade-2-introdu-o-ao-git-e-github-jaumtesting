@@ -1,7 +1,12 @@
 import java.util.Scanner;
 
 public class App {
-        //Comentário
+//Nome Completo: João Eduardo de Jesus Oliveira;
+//RA: 2920482221001
+//Idade: 20
+//gitHub: @jaumtesting
+//LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-oliveira-b222752b6/
+//Curso e Turma: Análise e Desenvolvimento de Sistemas - 4º Semestre
 
     public static void funcao_teste (){
         //Biblioteca para entrada de dados
